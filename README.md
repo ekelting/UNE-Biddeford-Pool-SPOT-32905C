@@ -31,7 +31,7 @@ The dashboard shows:
   - peak periods over 22 s
   - positions more than 150 m from the mooring, and sensor readings from before the buoy was moored on 2 Feb 2026
 - **Storm events:** hourly wave height of at least 1 m (3.3 ft) lasting 6+ hours.
-- **Wave power:** uses linear wave theory for a depth of about 19 ft (5.8 m), with the energy period taken from each spectrum (≥ 0.04 Hz).
+- **Wave power:** uses linear wave theory for a depth of about 19 ft (5.8 m, NOAA chart, low tide), with the energy period taken from each spectrum (≥ 0.04 Hz).
 - **Wind:** this is the Spotter's estimate from the waves, not an anemometer reading.
 
 ## Credits

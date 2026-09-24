@@ -11,7 +11,7 @@
   "mooring_lat": 43.4376128,
   "mooring_lon": -70.3492272,
   "depth_m": 5.8,
-  "depth_note": "at low tide, from the nautical chart",
+  "depth_note": "at low tide, from the NOAA nautical chart",
   "river_note": "",
   "sister_sites": [
     {
