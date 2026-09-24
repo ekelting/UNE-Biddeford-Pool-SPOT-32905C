@@ -10,7 +10,7 @@
   "waves_fetch_start_utc": "2026-02-02T00:00:00Z",
   "mooring_lat": 43.4376128,
   "mooring_lon": -70.3492272,
-  "depth_m": 5.8,
+  "depth_m": 7.92,
   "depth_note": "at low tide, from the NOAA nautical chart",
   "river_note": "",
   "sister_sites": [
