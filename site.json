@@ -1,0 +1,24 @@
+{
+  "spotter_id": "SPOT-32905C",
+  "short_name": "Biddeford Pool",
+  "site_name": "Biddeford Pool, Maine",
+  "github_user": "ekelting",
+  "github_repo": "UNE-Biddeford-Pool-SPOT-32905C",
+  "timezone": "America/New_York",
+  "deployed_utc": "2026-02-02T12:00:00Z",
+  "settled_utc": "2026-02-03T00:00:00Z",
+  "waves_fetch_start_utc": "2026-02-02T00:00:00Z",
+  "mooring_lat": 43.4376128,
+  "mooring_lon": -70.3492272,
+  "depth_m": 5.8,
+  "depth_note": "at low tide, from the nautical chart",
+  "river_note": "",
+  "sister_sites": [
+    {
+      "label": "Camp Ellis buoy",
+      "url": "https://ekelting.github.io/UNE-Camp-Ellis-SPOT-32787C/",
+      "lat": 43.4727,
+      "lon": -70.36053
+    }
+  ]
+}
