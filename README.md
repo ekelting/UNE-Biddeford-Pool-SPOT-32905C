@@ -1,3 +1,5 @@
+> **⚠️ This repository has moved.** This buoy is now part of the [UNE Marine Monitoring Network](https://github.com/ekelting/UNE-Marine-Monitoring-Network). Its live page is <https://ekelting.github.io/UNE-Marine-Monitoring-Network/biddeford-pool/>, and data collection continues there. This repo is kept as an archive of the code and data up to October 12, 2026. Its old web address forwards to the new page.
+
 # 🌊 Biddeford Pool Wave Buoy: live data
 
 **University of New England · Sofar Spotter SPOT-32905C · Biddeford Pool, Maine**
