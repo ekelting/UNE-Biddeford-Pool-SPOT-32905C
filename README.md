@@ -39,4 +39,4 @@ The dashboard shows:
 
 The data comes from [Sofar Ocean](https://www.sofarocean.com/) Spotter SPOT-32905C with Smart Mooring sensors, deployed by the University of New England.
 
-**Sister site:** [Camp Ellis wave buoy](https://ekelting.github.io/UNE-Camp-Ellis-SPOT-32787C/)
+**Sister sites:** [Camp Ellis wave buoy](https://ekelting.github.io/UNE-Camp-Ellis-SPOT-32787C/) · [Saco River Estuary (BB1.23)](https://ekelting.github.io/UNE-BlueSonde-BB1.23/) · [Water-quality buoy BB1.12](https://ekelting.github.io/UNE-BlueSonde-BB1.12/) · [Water-quality buoy BB1.47](https://ekelting.github.io/UNE-BlueSonde-BB1.47/) · [Water-quality buoy BB1.48](https://ekelting.github.io/UNE-BlueSonde-BB1.48/)
